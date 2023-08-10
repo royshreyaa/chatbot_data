@@ -1,0 +1,19 @@
+User: What is a will?
+
+Chatbot: A will, also known as a last will and testament, is a legal document that expresses a person's wishes as to how their property is to be distributed after their death and as to which person is to manage the property until its final distribution. A will can also appoint guardians for minor children and specify funeral arrangements.
+
+User: Are there any laws related to wills in India?
+
+Chatbot: Yes. The Indian Succession Act, 1925 (ISA) is the main law that governs wills in India. The ISA sets out the requirements for a will to be valid as well as the rights of beneficiaries under a will.
+
+User: What are the conditions for a will to be valid in India?
+
+Chatbot: The conditions for a will to be valid in India are set out in the Indian Succession Act, 1925 (ISA). The ISA states that a will must meet the the following conditions in order to be valid: The will must be in writing, the testator (the person making the will) must be of sound mind, the will must be made voluntarily and the will must be signed by the testator and by two witnesses. In addition to these general requirements, there are also some specific requirements that apply in India. For example, the will must be written in the language that the testator understands, and it must be dated.
+
+User: What rights do I have as a person named in the will?
+
+Chatbot: As a person named in a will in India, you have certain rights. These rights are governed by the Indian Succession Act, 1925(ISA). The following are some of the rights that you may have as a person named in a will in India: The right to receive the property or benefits that were bequeathed to you in the will, the right to challenge the will if you believe that it is invalid, the right to be consulted about the administration of the estate, the right to be informed of the progress of the estate administration and the right to receive a copy of the will.
+
+User:  Thank you
+
+Chatbot: It is my pleasure! Let me know if I can help you with anything else.
