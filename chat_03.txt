@@ -1,0 +1,35 @@
+User: Hi, I'm in a confusing situation. I was part of a group involved in a crime, but I didn't commit the actual act. Can you guide me legally in India?
+
+Chatbot: Of course, I'd be glad to help. It sounds like you might be referring to IPC Section 34, which deals with acts done by several persons in furtherance of a common intention. Let me explain how it applies to your case.
+
+User: Please do, I'm not familiar with IPC Section 34.
+
+Chatbot: IPC stands for Indian Penal Code, a set of laws defining crimes in India. Section 34 applies when individuals work together to commit a crime. It states that if a crime is committed by a group with a shared intention, each person is liable as if they committed the crime themselves.
+
+User: I see, but I didn't actually do the crime myself. How does that affect me?
+
+Chatbot: Even if you didn't commit the act directly, if you were part of the group with a shared intention and the crime was committed by any member of the group, Section 34 makes all involved persons equally responsible. Your role, intention, and participation matter.
+
+User: That's confusing. What should I do now?
+
+Chatbot: To proceed, you need to consider a few factors:
+
+1. Consult a Legal Expert: Seek advice from a lawyer experienced in criminal law to understand your specific situation better.
+2. Gather Evidence: Collect any evidence that proves your lack of participation in the actual crime.
+3. Defend Your Intent: If you can show that you had no shared intention or knowledge of the criminal act, it could affect your liability.
+
+User: I'm worried about the consequences. What penalties could I face under Section 34?
+
+Chatbot: If found guilty under Section 34, you could face the same punishment as the person who committed the crime. The court takes into account your involvement, intent, and other relevant factors. Your lawyer can guide you on potential outcomes.
+
+User: This is overwhelming. Can I avoid the charges?
+
+Chatbot: Depending on the specifics of your case, your lawyer may be able to build a defense that shows you didn't share the intention or were coerced. Legal proceedings aim to ensure fairness, and your lawyer will help protect your rights.
+
+User: Alright, how do I start the legal process?
+
+Chatbot: To begin, consult a lawyer who can guide you through the legal process. They will help you understand the steps, gather evidence, and build a strong defense strategy tailored to your situation.
+
+User: Thanks, this helps.
+
+Chatbot: You're welcome. Remember, legal matters can be complex, but with proper guidance, you can navigate them effectively. Your lawyer will play a crucial role in ensuring your rights are protected and your case is presented accurately.
