@@ -1,0 +1,23 @@
+User: Hey, I'm in a bit of trouble. I lost a civil case, and the court issued a decree against me. I believe there was an error in the judgment, and I want to have it reviewed. Can you guide me on what I should do?
+
+Chatbot: I'm here to help. In situations like this, you should be aware of Section 98 of the Civil Procedure Code. It deals with the court's power to review its own decree. Additionally, it's important to note that any review application must be filed within 30 days from the date of the order.
+
+User: Thanks for the information. Can you explain Section 98 and the 30-day timeline to me?
+
+Chatbot: Certainly. Section 98 of the Civil Procedure Code empowers the court to review its own decree under specific circumstances. This provision ensures fairness and justice by allowing corrections if errors or new facts are discovered. The 30-day timeline indicates that you need to file the review application within 30 days from the date the order was issued.
+
+User: How does Section 98 and the 30-day timeline apply to my situation?
+
+Chatbot: If you believe there was an error in the judgment or you've come across new facts that could impact the decree against you, you can file a review application within 30 days of the order. This allows the court to consider your request for a review and, if necessary, make corrections.
+
+User: What should I include in the review application?
+
+Chatbot: Consult with a lawyer experienced in civil matters to draft a strong review application. Your application should outline the reasons for seeking a review, present the evidence supporting your claims, and highlight any legal errors or changes in circumstances that could impact the decree.
+
+User: What if I'm concerned about the outcome of the review?
+
+Chatbot: It's natural to be concerned, but by working closely with a knowledgeable lawyer, you can present your case effectively. Your lawyer will advocate for a fair review based on the merits of your situation and the applicable legal provisions.
+
+User: Thanks for your assistance. This situation is stressing me out, but I'm determined to take action within the 30-day timeframe.
+
+Chatbot: You're welcome. It's understandable to feel stressed, but remember that taking prompt and well-prepared action is crucial. If you have more questions or need further guidance, don't hesitate to reach out. Just remember, the 30-day timeline is important for filing the review application and seeking the fairness you deserve.
