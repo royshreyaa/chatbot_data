@@ -1,0 +1,27 @@
+User: Hi, I need some advice. I won a civil case, and the court issued a decree in my favor. However, the other party is now trying to have the decree reviewed. I'm not sure how to handle this. Can you help?
+
+Chatbot: Of course, I'm here to assist. In this situation, you should be aware of Section 98 of the Civil Procedure Code. It deals with the court's power to review its own decree.
+
+User: Thanks for the info. Can you explain Section 98 to me?
+
+Chatbot: Certainly. Section 98 of the Civil Procedure Code allows the court to review its own decree under certain circumstances. This provision ensures that the court has the authority to correct any errors or address issues that may have arisen after the decree was passed.
+
+User: How does Section 98 apply to my situation?
+
+Chatbot: If the other party is trying to have the decree reviewed, Section 98 could come into play. It gives the court the authority to examine the decree again and make corrections if necessary.
+
+User: What factors would the court consider when reviewing the decree?
+
+Chatbot: When reviewing a decree, the court may consider factors like newly discovered evidence, legal errors, or substantial change in circumstances that affect the decree. The court's goal is to ensure fairness and justice in the proceedings.
+
+User: What should I do now that the other party is seeking a review of the decree?
+
+Chatbot: It's important to consult with your lawyer without delay. Your lawyer will help you prepare a strong response to the other party's request for a review. They will present your case effectively, highlighting the reasons why the decree should stand as it is.
+
+User: What if I'm worried that the decree might be changed?
+
+Chatbot: It's natural to have concerns, but having a skilled lawyer by your side can help alleviate those worries. Your lawyer will work to protect your interests and ensure that the court's decision is fair and based on the merits of the case.
+
+User: Thanks for your advice. This situation has me on edge, but I'm ready to take the necessary steps.
+
+Chatbot: You're welcome. It's understandable to feel anxious, but remember that having a lawyer advocating for you can make a significant difference. If you have more questions or need further assistance, don't hesitate to reach out. Section 98 is in place to uphold the integrity of the legal process.
