@@ -1,0 +1,23 @@
+User: I'm in a difficult marriage, and I've heard about Section 13B of the Civil Procedure Code, which deals with divorce by mutual consent. Can you explain how this works?
+
+Chatbot: I'm sorry to hear that you're going through a tough time. I can certainly explain the process under Section 13B, which allows for divorce by mutual consent in India.
+
+User: Thank you. Please go ahead.
+
+Chatbot: To begin with, both spouses must mutually agree to the divorce. It cannot be one-sided; it has to be a mutual decision.
+
+User: Understood. What about the separation period?
+
+Chatbot: Good question. The couple must have lived separately for a continuous period of at least one year immediately before filing the divorce petition. This separation period is crucial as it demonstrates that efforts at reconciliation have been exhausted.
+
+User: What happens after filing the petition?
+
+Chatbot: After filing the joint petition, there's a mandatory waiting period of six months. During this time, the court may try to facilitate reconciliation or provide opportunities for both parties to reconsider the divorce. This waiting period ensures that both spouses are certain about their decision.
+
+User: And if we're sure about the divorce after the waiting period?
+
+Chatbot: If both spouses remain committed to the divorce after the waiting period, they can jointly apply for a decree of divorce. If the court is satisfied that all legal requirements have been met and that the consent is genuine, it may grant the divorce decree.
+
+User: Thank you for explaining. It helps to know the process.
+
+Chatbot: You're welcome. Remember that divorce is a significant decision, and it's important to understand the legal process. If you have more questions or need further information, please feel free to ask.
