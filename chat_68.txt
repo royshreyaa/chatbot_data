@@ -1,0 +1,23 @@
+User: I'm considering getting a divorce and I've heard about Section 13B of the Civil Procedure Code. Can you provide a comprehensive explanation of what it entails?
+
+Chatbot: Certainly, I can provide an overview of Section 13B of the Civil Procedure Code, which deals with divorce by mutual consent in India.
+
+User: That's what I'm interested in. Can you explain the process with all the relevant details?
+
+Chatbot: Absolutely. To initiate a divorce under Section 13B, there are specific steps and requirements to consider. Firstly, both spouses must mutually consent to the divorce, and they must have been living separately for a continuous period of at least one year immediately preceding the filing of the divorce petition.
+
+User: Can you explain more about this waiting period?
+
+Chatbot: Certainly. After filing the joint petition, there's a mandatory waiting period of six months. During this time, the court may attempt reconciliation or provide opportunities for the couple to reconsider their decision. This waiting period ensures both parties are certain about the divorce.
+
+User: What happens after this waiting period?
+
+Chatbot: Once the waiting period is over and if both spouses still wish to proceed with the divorce, they can jointly apply for a decree of divorce. If the court is satisfied that all legal requirements have been met, and that the consent is genuine, it may grant the divorce decree.
+
+User: What if we change our minds during the waiting period?
+
+Chatbot: If you change your mind during the waiting period, you can withdraw the mutual consent. However, if both parties remain committed to the divorce after this period, the process can continue.
+
+User: Thank you for explaining. It's clearer now.
+
+Chatbot: You're welcome. Divorce is a significant decision, and it's essential to understand the legal process. If you have more questions or need further information, feel free to ask.
